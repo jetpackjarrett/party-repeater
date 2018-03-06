@@ -1,11 +1,19 @@
 {
   "name": "party-repeater",
   "version": "1.0.0",
-  "description": "Repeat an emoji or string N times",
+  "description": "Repeat 🎉 or other string N times and auto copy to clipboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetpackjarrett/party-repeater.git"
+  },
+  "author": "Jarrett Gossett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetpackjarrett/party-repeater/issues"
+  },
+  "homepage": "https://github.com/jetpackjarrett/party-repeater#readme"
 }
